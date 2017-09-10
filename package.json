@@ -1,0 +1,26 @@
+{
+  "name": "mongoose_lib",
+  "version": "0.3.0",
+  "description": "基于mongoose的二次封装",
+  "main": "baseDao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SethWen/MongooseLib.git"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "Shawn",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SethWen/MongooseLib/issues"
+  },
+  "homepage": "https://github.com/SethWen/MongooseLib#readme",
+  "dependencies": {
+    "config": "^1.26.2",
+    "mongoose": "^4.11.10"
+  }
+}

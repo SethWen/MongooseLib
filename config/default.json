@@ -1,0 +1,26 @@
+{
+  "mongodb": {
+    "user": "",
+    "pass": "",
+    "host": "localhost",
+    "port": "27017",
+    "replicaSet": {
+      "name": "",
+      "members": [
+        {
+          "host": "localhost",
+          "port": "27017"
+        },
+        {
+          "host": "localhost",
+          "port": "27027"
+        },
+        {
+          "host": "localhost",
+          "port": "27037"
+        }
+      ]
+    },
+    "db": "test"
+  }
+}
