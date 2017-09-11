@@ -1,5 +1,5 @@
 ## 操作 MongoDb 时需要创建两个文件 model.js 和 modelDao.js
-> 详细的介绍请查看[个人博客](http://www.jianshu.com/p/210d3f55af17)
+> 详细的介绍请查看[个人博客](http://www.jianshu.com/p/210d3f55af17)，欢迎您拍砖和 star。
 
  ### 一. 对于 Model.js 以下几部分：
  1. Schema 必要
@@ -13,4 +13,5 @@
  ### 三. 外部使用
      var dao = new ModelDao()
      dao.crud();
+
      
